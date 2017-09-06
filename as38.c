@@ -6,14 +6,14 @@ printf("enter the number");
 scanf("%d,%d,%d",&a,&b,&c);
 if((a>b)&&(a>c))
 {
-printf("a is larger number");
+printf("a is larger ");
 }
 if((b>a)&&(b>c))
 {
-printf("b is larger number");
+printf("b is larger");
 }
 else
 {
-printf("c is larger number");
+printf("c is larger ");
 }getch();
 }
