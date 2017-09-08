@@ -16,7 +16,7 @@ void main()
    printf("Enter the  value");
    scanf("%d",&b[i]);
    }
-   printf("\nThe output of addition of 2 array is\n");
+   printf("\nThe output of addition is\n");
    for(i=0;i<5;i++)
      {
      c[i]=a[i]+b[i];
